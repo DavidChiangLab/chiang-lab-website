@@ -1,1 +1,1 @@
-Sitemap: https://davidchianglab.github.io/chiang-lab-website/sitemap.xml
+Sitemap: https://davidchianglab.github.io/chianglab.github.io/sitemap.xml
